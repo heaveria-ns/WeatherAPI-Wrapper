@@ -1,0 +1,27 @@
+test.ts
+test.js
+test.js.map
+test.d.ts
+# Project exclude paths
+/Interfaces/IAlert.d.ts
+/Interfaces/IAlert.js
+/Interfaces/IAlert.js.map
+/Interfaces/IAqi.d.ts
+/Interfaces/IAqi.js
+/Interfaces/IAqi.js.map
+/Interfaces/IAstronomy.d.ts
+/Interfaces/IAstronomy.js
+/Interfaces/IAstronomy.js.map
+/Interfaces/ICurrent.d.ts
+/Interfaces/ICurrent.js
+/Interfaces/ICurrent.js.map
+/Interfaces/IForecast.d.ts
+/Interfaces/IForecast.js
+/Interfaces/IForecast.js.map
+/Interfaces/ILocation.d.ts
+/Interfaces/ILocation.js
+/Interfaces/ILocation.js.map
+/node_modules/
+/Weather.d.ts
+/Weather.js
+/Weather.js.map
